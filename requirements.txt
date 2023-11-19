@@ -1,0 +1,7 @@
+pandas
+streamlit
+numpy as np
+streamlit_card
+yfinance
+altair
+markdownlit
